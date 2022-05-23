@@ -1,0 +1,555 @@
+{
+  "categoryId": 1902,
+  "children": [
+    {
+      "categoryId": 10001930,
+      "children": [
+        {
+          "categoryId": 10001958,
+          "children": [],
+          "leaf": true,
+          "name": "Accessories",
+          "var": false
+        },
+        {
+          "categoryId": 10001957,
+          "children": [],
+          "leaf": true,
+          "name": "Backpacks",
+          "var": false
+        },
+        {
+          "categoryId": 10001956,
+          "children": [],
+          "leaf": true,
+          "name": "Backpacks Trolley",
+          "var": false
+        },
+        {
+          "categoryId": 10001955,
+          "children": [],
+          "leaf": true,
+          "name": "Bags",
+          "var": false
+        }
+      ],
+      "leaf": false,
+      "name": "Kids Bags",
+      "var": false
+    },
+    {
+      "categoryId": 10001928,
+      "children": [
+        {
+          "categoryId": 10001947,
+          "children": [
+            {
+              "categoryId": 10001990,
+              "children": [],
+              "leaf": true,
+              "name": "Fashion backpacks",
+              "var": true
+            }
+          ],
+          "leaf": false,
+          "name": "Backpacks",
+          "var": false
+        },
+        {
+          "categoryId": 10001946,
+          "children": [],
+          "leaf": true,
+          "name": "Business Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001948,
+          "children": [],
+          "leaf": true,
+          "name": "Crossbody Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001945,
+          "children": [],
+          "leaf": true,
+          "name": "Messenger Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001949,
+          "children": [],
+          "leaf": true,
+          "name": "Tote Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001950,
+          "children": [
+            {
+              "categoryId": 10001993,
+              "children": [],
+              "leaf": true,
+              "name": "Card Holders",
+              "var": true
+            },
+            {
+              "categoryId": 10001992,
+              "children": [],
+              "leaf": true,
+              "name": "Coin Holders & Pouches",
+              "var": true
+            },
+            {
+              "categoryId": 10001994,
+              "children": [],
+              "leaf": true,
+              "name": "Key Holders",
+              "var": true
+            },
+            {
+              "categoryId": 10001995,
+              "children": [],
+              "leaf": true,
+              "name": "Money Clips",
+              "var": true
+            },
+            {
+              "categoryId": 10001991,
+              "children": [
+                {
+                  "categoryId": 10002040,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Fashion Wallets",
+                  "var": true
+                }
+              ],
+              "leaf": false,
+              "name": "Wallets",
+              "var": false
+            }
+          ],
+          "leaf": false,
+          "name": "Wallets & Accessories",
+          "var": false
+        }
+      ],
+      "leaf": false,
+      "name": "Men Bags",
+      "var": false
+    },
+    {
+      "categoryId": 10001931,
+      "children": [
+        {
+          "categoryId": 10001961,
+          "children": [
+            {
+              "categoryId": 10002017,
+              "children": [],
+              "leaf": true,
+              "name": "Briefcases",
+              "var": false
+            },
+            {
+              "categoryId": 10002020,
+              "children": [],
+              "leaf": true,
+              "name": "Laptop Backpacks",
+              "var": false
+            },
+            {
+              "categoryId": 10002019,
+              "children": [],
+              "leaf": true,
+              "name": "Laptop cases",
+              "var": false
+            },
+            {
+              "categoryId": 10002018,
+              "children": [],
+              "leaf": true,
+              "name": "Messenger Bags",
+              "var": false
+            }
+          ],
+          "leaf": false,
+          "name": "Laptop Bags",
+          "var": false
+        },
+        {
+          "categoryId": 10001959,
+          "children": [
+            {
+              "categoryId": 10001998,
+              "children": [],
+              "leaf": true,
+              "name": "Kids Luggage",
+              "var": false
+            },
+            {
+              "categoryId": 10001997,
+              "children": [],
+              "leaf": true,
+              "name": "Luggage Sets",
+              "var": false
+            },
+            {
+              "categoryId": 10001996,
+              "children": [],
+              "leaf": true,
+              "name": "Suitcases",
+              "var": false
+            }
+          ],
+          "leaf": false,
+          "name": "Luggage",
+          "var": false
+        },
+        {
+          "categoryId": 10001960,
+          "children": [
+            {
+              "categoryId": 10002015,
+              "children": [],
+              "leaf": true,
+              "name": "Compression Bags",
+              "var": false
+            },
+            {
+              "categoryId": 10002013,
+              "children": [],
+              "leaf": true,
+              "name": "Garment Bags",
+              "var": false
+            },
+            {
+              "categoryId": 10001999,
+              "children": [],
+              "leaf": true,
+              "name": "Luggage Carts",
+              "var": false
+            },
+            {
+              "categoryId": 10002000,
+              "children": [],
+              "leaf": true,
+              "name": "Luggage Locks",
+              "var": false
+            },
+            {
+              "categoryId": 10002001,
+              "children": [],
+              "leaf": true,
+              "name": "Luggage Scales",
+              "var": false
+            },
+            {
+              "categoryId": 10002005,
+              "children": [
+                {
+                  "categoryId": 10002041,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Luggage Straps",
+                  "var": false
+                },
+                {
+                  "categoryId": 10002042,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Luggage Tags",
+                  "var": false
+                }
+              ],
+              "leaf": false,
+              "name": "Luggage Straps & Tags",
+              "var": false
+            },
+            {
+              "categoryId": 10002004,
+              "children": [],
+              "leaf": true,
+              "name": "Luggage protectors & covers",
+              "var": false
+            },
+            {
+              "categoryId": 10002010,
+              "children": [],
+              "leaf": true,
+              "name": "Organizer Sets",
+              "var": false
+            },
+            {
+              "categoryId": 10002016,
+              "children": [],
+              "leaf": true,
+              "name": "Other Packing Organizers",
+              "var": false
+            },
+            {
+              "categoryId": 10002008,
+              "children": [],
+              "leaf": true,
+              "name": "Other Travel Accessories",
+              "var": false
+            },
+            {
+              "categoryId": 10002002,
+              "children": [],
+              "leaf": true,
+              "name": "Passport Covers",
+              "var": false
+            },
+            {
+              "categoryId": 10002012,
+              "children": [],
+              "leaf": true,
+              "name": "Shoe Bags",
+              "var": false
+            },
+            {
+              "categoryId": 10002009,
+              "children": [],
+              "leaf": true,
+              "name": "Toiletries & Cosmetics Bags",
+              "var": false
+            },
+            {
+              "categoryId": 10002014,
+              "children": [],
+              "leaf": true,
+              "name": "Travel Size Bottles & Containers",
+              "var": false
+            },
+            {
+              "categoryId": 10002003,
+              "children": [],
+              "leaf": true,
+              "name": "Travel Wallets",
+              "var": false
+            },
+            {
+              "categoryId": 10002006,
+              "children": [],
+              "leaf": true,
+              "name": "Travel adapters & Converters",
+              "var": false
+            },
+            {
+              "categoryId": 10002007,
+              "children": [
+                {
+                  "categoryId": 10002046,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Ear plugs",
+                  "var": false
+                },
+                {
+                  "categoryId": 10002045,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Eye masks",
+                  "var": false
+                },
+                {
+                  "categoryId": 10002044,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Travel pillows",
+                  "var": false
+                },
+                {
+                  "categoryId": 10002043,
+                  "children": [],
+                  "leaf": true,
+                  "name": "Travel sets",
+                  "var": false
+                }
+              ],
+              "leaf": false,
+              "name": "Travel pillows & eye masks",
+              "var": false
+            },
+            {
+              "categoryId": 10002011,
+              "children": [],
+              "leaf": true,
+              "name": "Underwear Organizers",
+              "var": false
+            }
+          ],
+          "leaf": false,
+          "name": "Travel Accessories",
+          "var": false
+        },
+        {
+          "categoryId": 10001962,
+          "children": [
+            {
+              "categoryId": 10002023,
+              "children": [],
+              "leaf": true,
+              "name": "Foldable & Drawstring bags",
+              "var": false
+            },
+            {
+              "categoryId": 10002022,
+              "children": [],
+              "leaf": true,
+              "name": "Waist Packs",
+              "var": false
+            },
+            {
+              "categoryId": 10002021,
+              "children": [],
+              "leaf": true,
+              "name": "Weekender bags",
+              "var": false
+            }
+          ],
+          "leaf": false,
+          "name": "Travel Bags",
+          "var": false
+        }
+      ],
+      "leaf": false,
+      "name": "Travel",
+      "var": false
+    },
+    {
+      "categoryId": 10001929,
+      "children": [
+        {
+          "categoryId": 10001951,
+          "children": [],
+          "leaf": true,
+          "name": "Backpacks",
+          "var": true
+        },
+        {
+          "categoryId": 10001953,
+          "children": [],
+          "leaf": true,
+          "name": "Card Holders",
+          "var": true
+        },
+        {
+          "categoryId": 10001952,
+          "children": [],
+          "leaf": true,
+          "name": "Coin Purses & Pouches",
+          "var": true
+        },
+        {
+          "categoryId": 10001954,
+          "children": [],
+          "leaf": true,
+          "name": "Key Holders",
+          "var": true
+        }
+      ],
+      "leaf": false,
+      "name": "Unisex Bags",
+      "var": false
+    },
+    {
+      "categoryId": 10001927,
+      "children": [
+        {
+          "categoryId": 10001942,
+          "children": [],
+          "leaf": true,
+          "name": "Backpacks",
+          "var": true
+        },
+        {
+          "categoryId": 10001941,
+          "children": [],
+          "leaf": true,
+          "name": "Clutches",
+          "var": true
+        },
+        {
+          "categoryId": 10001939,
+          "children": [],
+          "leaf": true,
+          "name": "Cross Body & Shoulder Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001940,
+          "children": [],
+          "leaf": true,
+          "name": "Top-Handle Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001938,
+          "children": [],
+          "leaf": true,
+          "name": "Tote Bags",
+          "var": true
+        },
+        {
+          "categoryId": 10001944,
+          "children": [
+            {
+              "categoryId": 10001985,
+              "children": [],
+              "leaf": true,
+              "name": "Bag Charms & Accessories",
+              "var": true
+            },
+            {
+              "categoryId": 10001988,
+              "children": [],
+              "leaf": true,
+              "name": "Card Holders",
+              "var": true
+            },
+            {
+              "categoryId": 10001987,
+              "children": [],
+              "leaf": true,
+              "name": "Coin Purses & Pouches",
+              "var": true
+            },
+            {
+              "categoryId": 10001989,
+              "children": [],
+              "leaf": true,
+              "name": "Key Holders",
+              "var": true
+            },
+            {
+              "categoryId": 10001986,
+              "children": [],
+              "leaf": true,
+              "name": "Wallets",
+              "var": true
+            }
+          ],
+          "leaf": false,
+          "name": "Wallets & Accessories",
+          "var": false
+        },
+        {
+          "categoryId": 10001943,
+          "children": [],
+          "leaf": true,
+          "name": "Wristlets",
+          "var": true
+        }
+      ],
+      "leaf": false,
+      "name": "Women Bags",
+      "var": false
+    }
+  ],
+  "leaf": false,
+  "name": "Bags and Travel",
+  "var": false
+}
